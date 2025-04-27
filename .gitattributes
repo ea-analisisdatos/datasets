@@ -2,5 +2,5 @@ actividadeconomica202504.csv filter=lfs diff=lfs merge=lfs -text
 licencias202504.csv filter=lfs diff=lfs merge=lfs -text
 estudioSatisfaccion2023-Estudio de satisfacción de las personas usuarias de los museos y exposiciones municipales.csv filter=lfs diff=lfs merge=lfs -text
 alojamiento-alcala-de-henares2.csv filter=lfs diff=lfs merge=lfs -text
-alojamientos_turisticos - MADRID.csv filter=lfs diff=lfs merge=lfs -text
+alojamientos_turisticos.csv filter=lfs diff=lfs merge=lfs -text
 declaraciones_actividad_viviendas_uso_turistico.csv filter=lfs diff=lfs merge=lfs -text
