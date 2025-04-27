@@ -1,2 +1,0 @@
-actividadeconomica202504.csv filter=lfs diff=lfs merge=lfs -text
-licencias202504.csv filter=lfs diff=lfs merge=lfs -text
