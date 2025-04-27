@@ -1,9 +1,0 @@
-# Elimina el seguimiento LFS de todos los archivos
-git lfs untrack "*"
-
-# Agrega solo los archivos grandes (ej: .zip, .psd)
-git lfs track "*.zip"
-git lfs track "*.psd"
-
-# Verifica el archivo
-cat .gitattributes
