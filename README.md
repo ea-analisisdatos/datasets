@@ -3,7 +3,7 @@
 Bases de datos disponibles para realización de tests, estudiar análisis de datos, desarrollar visualizaciones, etc
 <<<<<<< HEAD
 Datasets obtenidos de fuentes abiertas para estudio y/o trabajos de análisis de datos e Inteligencia Artificial.
-=======
+=================================================================================================================
 
 ¿Cómo subir a github archivos con tamaño mayor que 100mb?
 
@@ -55,4 +55,11 @@ git push
 ```
 
 ```
+
 >>>>>>> c7a40bb (Track all large file types using Git LFS)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
